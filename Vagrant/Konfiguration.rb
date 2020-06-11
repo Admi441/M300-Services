@@ -12,5 +12,5 @@ Vagrant.configure("2") do |config|
     SHELL
 
     config.vm.provider "virtualbox" do |vb|
-        vb.memory = "512"
+        vb.memory = "6144"
 end
