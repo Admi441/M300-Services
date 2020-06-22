@@ -1,0 +1,2 @@
+Remove-WindowsFeature Containers
+Remove-WindowsFeature Hyper-V
